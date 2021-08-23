@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lashesbydesign.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lashesbydesign.ca/collections/after-care-and-lash-bloom.atom"/>
+  <title>Lashes By Design</title>
+  <updated>2021-05-26T13:04:04-04:00</updated>
+  <author>
+    <name>Lashes By Design</name>
+  </author>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/6566141263907</id>
+    <published>2021-05-26T13:04:04-04:00</published>
+    <updated>2021-05-26T13:04:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/shampoo-bottles-and-cleanser-kit"/>
+    <title>Shampoo Bottles and Cleanser Kit</title>
+    <s:type>lash shampoo</s:type>
+    <s:vendor>Shenzhen Zhanss Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lashbottlesandsachets.jpg?v=1622048532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shenzhen Zhanss Technology<br>
+        <strong>Type: </strong>lash shampoo<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ever wanted to make your own shampoo bottles for your aftercare kits? Now you can with our easy to make DIY foaming lash shampoo bottles! We recommend 2 sachets per bottle.   Give each client 1 bottle and 2 sachets for them to make their own cleanser at home! Individual sachets are available to purchase for refills.</p>
+<p><strong>Included:</strong></p>
+<p>5 Empty reusable bottles with lids</p>
+<p>10 sachets (3ml each)</p>
+<p><strong>TIP </strong>The more water you use, the denser the foam.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy shampoo</s:tag>
+    <s:tag>foaming eye wash</s:tag>
+    <s:tag>foaming face wash</s:tag>
+    <s:tag>foaming lash shampoo</s:tag>
+    <s:tag>foaming shampoo</s:tag>
+    <s:tag>lash aftercare</s:tag>
+    <s:tag>lash cleanser</s:tag>
+    <s:tag>lash shampoo</s:tag>
+    <s:tag>lath bath</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/6566141263907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+    <published>2020-10-19T14:01:13-04:00</published>
+    <updated>2020-10-19T14:01:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/training-case-1"/>
+    <title>Beauty Case</title>
+    <s:type>case</s:type>
+    <s:vendor>amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/white.jpg?v=1621286155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>amazon<br>
+        <strong>Type: </strong>case<br>
+        <strong>Price: </strong>
+            19.99 - 34.00
+            <a href="https://www.lashesbydesign.ca/products/training-case-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Great kit for training or use as a personal makeup bag! Vegan and Cruelty-Free!</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Customized Dividers - create your own sections that maximize your space</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1"> Brush and Tweezer Compartment - It comes with a separate space to hold your brushes and protect them from dust and an extra zipper pocket for small items storage.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Professional Grade - Soft &amp; padded, reliable zippers, nice lining, every detail is delicately made. Our makeup case would be a great holiday gift for women and girls.</span></li>
+<li data-mce-fragment="1">Water-resistant - Water-resistant inside and outside and durable fabric protects your gear from spills, easy to wipe down.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brush case</s:tag>
+    <s:tag>makeup case</s:tag>
+    <s:tag>training case</s:tag>
+    <s:tag>training kit</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+      <title>White and Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>805046000759</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+      <title>Black</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4635462500387</id>
+    <published>2020-09-11T09:15:03-04:00</published>
+    <updated>2020-09-11T09:15:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/after-care-card-with-cleanser"/>
+    <title>After Care Card with Cleanser 5/bag</title>
+    <s:type>After Care</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/after-care-after-care-card-with-cleanser-5-bag-16838715375651.jpg?v=1621286202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>After Care<br>
+        <strong>Price: </strong>
+            5.00 - 7.50
+            <a href="https://www.lashesbydesign.ca/products/after-care-card-with-cleanser">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proper After Care is the best-kept secret for maintaining lashes longer. Our new aftercare card features our top tips for aftercare as well as a sample gel pack, and an appointment reminder on the back.</p>
+<p>The sample gel pack will not only encourage your clients to wash their lashes with a cleanser that is specially formulated to clean oil, makeup, and bacteria off their lashes, but it also helps promote retail products so that you can increase your retail sales.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after care</s:tag>
+    <s:tag>aftercare</s:tag>
+    <s:tag>clean lashes</s:tag>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>eyelash extension</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4635462500387</id>
+      <title>Card Only 5/bag</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>805046000326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4635462500387</id>
+      <title>Card and Gel Cleanser Sachet 5/bag</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>805046000327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4635054932003</id>
+    <published>2020-09-10T10:24:34-04:00</published>
+    <updated>2020-09-10T10:24:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/microblade-aftercare-oil"/>
+    <title>Microblade AfterCare Oil</title>
+    <s:type>After Care</s:type>
+    <s:vendor>thirteen organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/oil.png?v=1621286158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirteen organic<br>
+        <strong>Type: </strong>After Care<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-crafted aftercare oil to maximize healing. We worked with a local Organic Oil supplier to create a custom mix to truly get the best results for boosting the recovery process. We recommend selling these gems to your clients for aftercare, or even for use on any dry/cracked skin. We promise you it's worth it!</p>
+<p><strong>Ingredients:</strong> Organic Shea butter, Organic Rose Hip oil, Sea Buckthorn oil, Lavender essential oil, Melissa essential oil, Chamomile essential oil, Natural bisabolol Myrhh essential oil, Vitamin E<br data-mce-fragment="1"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after care</s:tag>
+    <s:tag>after care oil</s:tag>
+    <s:tag>healing</s:tag>
+    <s:tag>healing aftercare</s:tag>
+    <s:tag>healing oil</s:tag>
+    <s:tag>microblade</s:tag>
+    <s:tag>microblade after care</s:tag>
+    <s:tag>microblade aftercare</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4635054932003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4630294757411</id>
+    <published>2020-08-31T16:42:42-04:00</published>
+    <updated>2020-08-31T16:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/reusable-silk-mask"/>
+    <title>Mulberry 100% Silk Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/face-mask-mulberry-100-silk-mask-16839544700963.jpg?v=1621286322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself to luxurious 100% silk on your face. Prevents breakout and rashes on your skin. </p>
+<p>Adjustable earloop strap to make the perfect snug and comfortable fit.</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Made from 100% Mulberry Silk: Silk allows your skin to simply glide over the surface of the smooth fabric, where cotton can be more abrasive. This prevents acne and breakouts.</span></li>
+<li><span class="a-list-item">Machine Washable: Hand or machine wash cold delicate using a gentle detergent. Hang dry or tumble dry low, for 10 minutes.</span></li>
+<li><span class="a-list-item">Adjustable Ear Loop and Nose Clip: Mask can be adjusted to tailor to each individual face.</span></li>
+<li><span class="a-list-item">Filter Pocket (Filter Included): Mask can be fitted with loose filter material, including any kind of HEPA filter, which may improve effectiveness.</span></li>
+<li><span class="a-list-item">Hypoallergenic and Breathable: Very breathable and cool during the summer months. This mask provides a great combo of fashion and function.</span></li>
+</ul>
+<p><span class="a-list-item">Black is the most popular colour so grab them while they are still available!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>face mask</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>mulberry mask</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>reusable mask</s:tag>
+    <s:tag>silk mask</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4630294757411</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>805046000303</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4630294757411</id>
+      <title>Navy</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>805046000305</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4627850985507</id>
+    <published>2020-08-26T14:33:44-04:00</published>
+    <updated>2020-08-26T14:33:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/deep-pocket-eyelash-extension-sleep-mask"/>
+    <title>Deep Pocket Sleep Mask</title>
+    <s:type>Eyelash Extension</s:type>
+    <s:vendor>jinshengjie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/eyelash-extension-deep-pocket-sleep-mask-17401545457699.jpg?v=1621286229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jinshengjie<br>
+        <strong>Type: </strong>Eyelash Extension<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Eyelash Extension sleep mask is designed to protect eyelashes from rubbing against your pillow. The extra deep pocket will make sure that even the longest lashes will be protected while you sleep.</span></p>
+<p><span>Make sure to Log in to wholesale pricing for discount</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blindfold</s:tag>
+    <s:tag>eyelash extension accessory</s:tag>
+    <s:tag>eyelash extension sleep mask</s:tag>
+    <s:tag>eyelash protection</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>retail</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:tag>sleeping mask</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4627850985507</id>
+      <title>Black</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>805046000302</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4627850985507</id>
+      <title>Pink</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>805046000301</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4627444596771</id>
+    <published>2020-08-25T13:15:28-04:00</published>
+    <updated>2020-08-25T13:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/brow-soap"/>
+    <title>Brow Soap</title>
+    <s:type>Brow Soap</s:type>
+    <s:vendor>Miss Pretty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/brow-soap-brow-soap-16839232061475.jpg?v=1621286204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Pretty<br>
+        <strong>Type: </strong>Brow Soap<br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brows are in! Try a little styling with a mascara wand and our Styling Brow Soap. Excellent to cover up sparse areas, create a spiked or messy look, or combine with a brow lamination. The possibilities are endless!</p>
+<p><strong>Includes:</strong></p>
+<ul>
+<li>Tin with sliding lid</li>
+<li>One brush</li>
+</ul>
+<p><br><strong>Directions:</strong></p>
+<ul>
+<li>Spray brush with a little water and shake off excess</li>
+<li>Dip your brow brush into brow soap to lightly cover the bristles</li>
+<li>Brush your brows a small piece at a time into the desired look</li>
+<li>Don't be afraid to flick a few upwards for a natural tousled look</li>
+<li>Leave on to dry</li>
+</ul>
+<p><strong>Ingredients:</strong></p>
+<p>Water, sucrose, stearic acid, sorbitol lauric acid, palm oil, coconut oil, olive oil, ethanol, propylene glycol, glycerin, sodium hydroxide, laurel Sodium Alchohol Sulfate, Cocoyl Glutamate, Sodium Lauryl sulphate, acrylate copolymer, hamamelis Virginiana extract</p>
+<p><strong> *Wholesale pricing available when you login as wholesale*</strong></p>
+<p><strong>Apply Here: <a title="Wholesale Application" href="https://www.lashesbydesign.ca/a/wsg/proxy/signup">Wholesale Account Application</a></strong></p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow gel</s:tag>
+    <s:tag>brow pomade</s:tag>
+    <s:tag>brow soap</s:tag>
+    <s:tag>brow style</s:tag>
+    <s:tag>brows on fleek</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4627444596771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>805046000235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4610589458467</id>
+    <published>2020-07-30T13:24:52-04:00</published>
+    <updated>2020-07-30T13:24:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/cloth-mask"/>
+    <title>Cloth Mask - no more fogging!</title>
+    <s:type>mask</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/mask-cloth-mask-no-more-fogging-16331000381475.png?v=1621286255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>mask<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you are like me and wear glasses for work, I cannot see when my glasses fog up from wearing masks.  This is the only one that has completely not fogged up, pulled on my ears, or restricted my breathing.  I can wear this all day with minimal discomfort and just get used to it. Put your glasses over the mask and you will be fog free!</p>
+<p><strong>Features: </strong></p>
+<ul>
+<li>Minimal fog</li>
+<li>easy to breathe</li>
+<li>easy to wash and dries quickly</li>
+<li>one size fits all (may need to tie the loops for children)</li>
+<li>comfortable ear loops that will not cause irritation</li>
+</ul>
+<p>Material: cotton polyester blend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue mask</s:tag>
+    <s:tag>cloth mask</s:tag>
+    <s:tag>comfortable mask</s:tag>
+    <s:tag>face mask</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>washable mask</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4610589458467</id>
+      <title>Blue</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>805046000628</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4610589458467</id>
+      <title>Black</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>805046000048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4610589458467</id>
+      <title>Pink</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>805046000629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4610589458467</id>
+      <title>Gray</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4603721580579</id>
+    <published>2020-07-17T16:58:04-04:00</published>
+    <updated>2020-07-17T16:58:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lash-and-brow-bubble-cleanser"/>
+    <title>Foaming Lash Bath</title>
+    <s:type>Lash Shampoo</s:type>
+    <s:vendor>Lcare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lash-shampoo-foaming-lash-bath-16417361821731.jpg?v=1621286262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lcare<br>
+        <strong>Type: </strong>Lash Shampoo<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Would you like to offer your clients a high-end bubble foam with your label? We brought in our Premium Bubble foam with no label just for you! The foaming cleanser is made in South Africa and is our go-to foam for our clients. Try it today and see the difference quality cleanser makes! Add your logo and retail to your lash clients!</p>
+<p>This product has been specifically formulated to cleanse and sanitize the entire eye area and is the ideal care product for wearers of lash and brow extensions. It also effectively removes makeup and will not break down the bond of the lash/brow adhesive.</p>
+<p><br>Bubble Cleanser is full of natural ingredients specifically formulated to cleanse and remove makeup and leave your clients feeling refreshed.<br><br></p>
+<ul>
+<li>Effectively removes makeup</li>
+<li>Does not break down the bond of the lash/brow adhesive</li>
+<li>Does not contain Sodium Lauryl Sulphate (SLS is a foaming agent used in brake fluid that can have a drying effect on the skin)</li>
+<li>Contains 4 natural ingredients. Rose Pelargonium, Aloe Vera, Citrus and Tea Tree extract</li>
+<li>Gentle on the eyes</li>
+<li>Only a small amount of product is needed to create a lather to cleanse and soothe the entire eye area</li>
+<li>Beautiful packaging eliminates the need for a product stand</li>
+<li>EU Compliant</li>
+<li>Vegan-friendly</li>
+<li>pH Balanced to diminish the risk of eye irritation</li>
+</ul>
+<p><br><strong>Ingredients</strong>: Aqua, Cocamidopropyl Betaine, Acrylatec Copolymer, Aloe Ferox Leaf Gel, Glycerin, Cocamide DEA, Polysorbate 20, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Orange Fruit Oil, Rose Pelargonium Flower Oil, Tea tree Leaf Oil, Potassium Sorbate, Citric Acid, Rooibos Leaf Extract.</p>
+<p><strong>Suggested Retail Price: $26</strong></p>
+<p><strong>Login to Apply for <a href="https://www-lashesbydesign-ca.myshopify.com/a/wsg/proxy/login" title="Wholesale Discount">PROFESSIONAL DISCOUNT</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble</s:tag>
+    <s:tag>bubble cleanser</s:tag>
+    <s:tag>clean lashes</s:tag>
+    <s:tag>foam cleanser</s:tag>
+    <s:tag>Gel Lash Cleanser</s:tag>
+    <s:tag>lash bath</s:tag>
+    <s:tag>lash cleanser</s:tag>
+    <s:tag>lash shampoo</s:tag>
+    <s:tag>new-collection</s:tag>
+    <s:tag>oil free face wash</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4603721580579</id>
+      <title>no Label</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>805046000278</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4603721580579</id>
+      <title>LBD Label</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>805046000278</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4353758363683</id>
+    <published>2019-11-19T11:26:15-05:00</published>
+    <updated>2019-11-19T11:26:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lash-and-brow-gel-cleanser-sachet"/>
+    <title>Lash and Brow Gel Cleanser Sachet (10 pack)</title>
+    <s:type>Lash Shampoo</s:type>
+    <s:vendor>Lcare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lash-shampoo-lash-and-brow-gel-cleanser-sachet-10-13585386700835.png?v=1621705930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lcare<br>
+        <strong>Type: </strong>Lash Shampoo<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We love it when our clients take care of their lashes by washing them daily. This sample pack can be used to create foaming bottles (1 sachet/bottle) or you can purchase the full size 50 ml bottle.</p>
+<p><strong>Ingredients</strong><span>: Aqua, Cocamidopropyl Betaine, Acrylatec Copolymer, Aloe Ferox Leaf Gel, Glycerin, Cocamide DEA, Polysorbate 20, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Orange Fruit Oil, Rose Pelargonium Flower Oil, Tea tree Leaf Oil, Potassium Sorbate, Citric Acid, Rooibos Leaf Extract.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clean lashes</s:tag>
+    <s:tag>Gel Lash Cleanser</s:tag>
+    <s:tag>lash bath</s:tag>
+    <s:tag>new-collection</s:tag>
+    <s:tag>oil free face wash</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4353758363683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4353747976227</id>
+    <published>2019-11-19T11:11:08-05:00</published>
+    <updated>2019-11-19T11:11:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lash-and-brow-gel-cleanser"/>
+    <title>Lash and Brow Gel Cleanser Concentrate</title>
+    <s:type>Lash Shampoo</s:type>
+    <s:vendor>Lcare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lash-shampoo-lash-and-brow-gel-cleanser-13585257955363.png?v=1628614116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lcare<br>
+        <strong>Type: </strong>Lash Shampoo<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our concentrated cleansing gel with antibacterial ingredients soothes and refreshes the eye area, while gently removing makeup and leaving the extension adhesive intact. Lash and Brow Cleanser helps to prevent eye infections, gritty eyes and promotes longevity of lash extensions.</p>
+<p>Only use a PEA size drop and wash your whole face and lash line! </p>
+<p>Sachets are a great sample size to give to your customers after they have a full set of lashes. When they return to make sure to check in with them and see if they are interested in the full-size bottle.</p>
+<p><strong>Ingredients</strong><span>: Aqua, Cocamidopropyl Betaine, Acrylatec Copolymer, Aloe Ferox Leaf Gel, Glycerin, Cocamide DEA, Polysorbate 20, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Orange Fruit Oil, Rose Pelargonium Flower Oil, Tea tree Leaf Oil, Potassium Sorbate, Citric Acid, Rooibos Leaf Extract.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clean lashes</s:tag>
+    <s:tag>Gel Lash Cleanser</s:tag>
+    <s:tag>lash bath</s:tag>
+    <s:tag>new-collection</s:tag>
+    <s:tag>oil free face wash</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4353747976227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>805046000637</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4309480439843</id>
+    <published>2019-10-24T12:53:05-04:00</published>
+    <updated>2019-10-24T12:53:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/bladeless-lash-fan"/>
+    <title>Bladeless Lash Fan</title>
+    <s:type>Fan</s:type>
+    <s:vendor>Aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/fan-bladeless-lash-fan-14611388366883.png?v=1621286255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aliexpress<br>
+        <strong>Type: </strong>Fan<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will love this powerful mini fan that is bladeless, cordless, and rechargeable.  </p>
+<p>The fan is only 21 cm tall and is ideal for helping you dry lashes after an application.</p>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>Stand included</li>
+<li>USB rechargeable</li>
+<li>Cordless</li>
+<li>Quiet</li>
+<li>3 speeds</li>
+</ul>
+<p>*new stock expected by April 15</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bladeless fan</s:tag>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>fan</s:tag>
+    <s:tag>lash fan</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4309480439843</id>
+      <title>Teal</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>805046000361</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4309480439843</id>
+      <title>Black</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>805046000608</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4309480439843</id>
+      <title>White</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>805046000723</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735111540771</id>
+    <published>2019-05-22T13:01:05-04:00</published>
+    <updated>2019-05-22T13:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/eyebrow-growth-serum"/>
+    <title>Lash Bloom™ Conditioner and Enhancer Serum</title>
+    <s:type>Growth Serum</s:type>
+    <s:vendor>Alice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/growth-serum-lash-bloom-conditioner-and-enhancer-serum-eyebrow-growth-serum-lash-and-brow-growth-serum-14112478724131.jpg?v=1621286328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice<br>
+        <strong>Type: </strong>Growth Serum<br>
+        <strong>Price: </strong>
+            10.00 - 70.00
+            <a href="https://www.lashesbydesign.ca/products/eyebrow-growth-serum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0in 0in 12.0pt 0in;"><iframe width="560" height="315" src="https://www.youtube.com/embed/teyGs_6DDlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>Everyone wants long and beautiful lashes, the epitome of glamour and chicness. With our lash and brow conditioner serum, your lashes will look and feel like you’ve always wanted them to. By applying the Serum once or twice per day to the base of your eyelashes, your lashes will look years younger!</p>
+<p style="margin: 0in 0in 12.0pt 0in;">Safe to use with Eyelash Extensions</p>
+<p style="margin: 0in 0in 12.0pt 0in;">Results vary from client to client, but we love this product so much that it comes with a no-hassle 100% money-back guarantee.</p>
+<p style="margin: 0in 0in 12.0pt 0in;"><strong>Ingredients</strong>: Purified Water, Sodium Chloride, Benzalkonium Chloride, Citric Acid, Disodium Phosphate, Cellulose Gum, Hyaluronic Acid, Polypeptide.</p>
+<p><strong>Testimonials:</strong></p>
+<div class="row no-margin-bottom">
+<div class="large-12 columns">
+<p><em>I just wanted to thank you so much for introducing me to the Lashes By Design eyelash enhancer serum! I have been using the product for over a month now and the results have been AMAZING!  Prior to using the product, I always had short, fine and damaged lashes. Since using this product I have noticed a huge difference in the overall length, thickness and fullness in both my top and lower lashes. I am so happy that I can finally wear a thicker lash, and I rarely feel the need to apply mascara on my lower lashes. I think the best part about this product is that it only takes 20 seconds to apply. It is so easy and I have been blown away by the results!  I can't wait to see the results after another month of use! </em></p>
+<p><em>Marla, Oct 2015</em></p>
+<p> </p>
+<p><em>After using the lash growth serum for a couple of months then getting a lash lift my results are dramatic! I used to get extensions but due to an allergy have switched to lash lifts. This round when I saw my lashes they looked just as long and curly as my old extensions! I was shocked. Beautiful work  :) Thanks!!</em></p>
+<p><em>Jenna, May 2015</em></p>
+<p> </p>
+<p><em>We just measured a 14 mm lash on the inner corner of my lashes!  I can't believe it!</em></p>
+<p><em>Silvana, Nov 2015</em></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyebrow Growth Serum</s:tag>
+    <s:tag>eyelash serum</s:tag>
+    <s:tag>grow eyebrow</s:tag>
+    <s:tag>grow eyelash</s:tag>
+    <s:tag>growth serum</s:tag>
+    <s:tag>long lashes</s:tag>
+    <s:tag>natural lash growth serum</s:tag>
+    <s:tag>thick lashes</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735111540771</id>
+      <title>Lash Bloom</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>805046000267</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735111540771</id>
+      <title>Display Case Only</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735107706915</id>
+    <published>2019-05-22T12:59:19-04:00</published>
+    <updated>2019-05-22T12:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/zensa-anaesthetic-30g"/>
+    <title>Zensa Numbing Cream 30g</title>
+    <s:type>Topical Anaesthetic</s:type>
+    <s:vendor>Alera Skin Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/topical-anaesthetic-zensa-anaesthetic-30g-5499245330467.jpg?v=1621286406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alera Skin Care<br>
+        <strong>Type: </strong>Topical Anaesthetic<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Formulated for painful procedures like waxing, microblading, injections, tattooing and more.</p>
+<p><br><strong>what's included</strong><br></p>
+<ul>
+<li>Maximum strength 5% lidocaine</li>
+<li>Lasts 2-3 hours and is safe to reapply on broken skin to extend numbing sensation</li>
+<li>Natural pH formulation is safe to use on the most sensitive areas like the bikini area and lips</li>
+<li>Does not contain vasoconstrictors that will affect the settling of ink</li>
+<li>Vitamin E acts as an anti-inflammatory to boost the healing process</li>
+<li>Vegan &amp; steroid-free</li>
+</ul>
+<p>Who can use Zensa:</p>
+<p>Common applications include tattoos and piercings, microblading/permanent makeup, micro needling, fillers/botox injections, waxing and laser hair removal, electrolysis, as well as relief for arthritis, dialysis, shots or vaccinations. Water-based, non-oily formulation leaves no trace when absorbed.</p>
+<p><strong>Ingredients</strong></p>
+<p>Active ingredient: Lidocaine 5%</p>
+<p>Inactive ingredients: Benzyl Alcohol, Carbopol, Lecithin, Propylene Glycol, Vitamin E Acetate, Purified Water</p>
+<div id="acc-1-3-d" class="panel-collapse in">
+<div class="panel-body">
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anaesthetic</s:tag>
+    <s:tag>dr numb</s:tag>
+    <s:tag>healing cream</s:tag>
+    <s:tag>lidocaine</s:tag>
+    <s:tag>microblading</s:tag>
+    <s:tag>microblading aftercare</s:tag>
+    <s:tag>numbing cream</s:tag>
+    <s:tag>tattoo</s:tag>
+    <s:tag>tattoo aftercare</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107706915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>627843518167</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+    <published>2019-05-22T12:59:14-04:00</published>
+    <updated>2019-05-22T12:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/eyelash-extension-sleep-mask"/>
+    <title>Eyelash Extension Sleep Mask</title>
+    <s:type>Eyelash Extension</s:type>
+    <s:vendor>Aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/eyelash-extension-eyelash-extension-sleep-mask-5499244249123.jpg?v=1621286286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aliexpress<br>
+        <strong>Type: </strong>Eyelash Extension<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Eyelash Extension sleep mask is designed to protect eyelashes from rubbing against your pillow.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blindfold</s:tag>
+    <s:tag>eyelash extension accessory</s:tag>
+    <s:tag>eyelash extension sleep mask</s:tag>
+    <s:tag>eyelash protection</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>retail</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:tag>sleeping mask</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Leopard</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000208</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Blue</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000205</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Pink</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000207</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Teal</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000640</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Black</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000209</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Purple</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000206</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107641379</id>
+      <title>Gray</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000421</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735107543075</id>
+    <published>2019-05-22T12:59:12-04:00</published>
+    <updated>2019-05-22T12:59:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/eyelash-extension-sealer"/>
+    <title>Rroir Lash Sealer</title>
+    <s:type>Lash Protector</s:type>
+    <s:vendor>Beauty Channel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lash-protector-rroir-lash-sealer-eyelash-extension-sealer-gel-lash-sealer-17257704718371.jpg?v=1621286354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Channel<br>
+        <strong>Type: </strong>Lash Protector<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rroir Clear Coating forms a thin barrier to protect against oils and makeup that break down the adhesive. This product not only gives the extensions a maximum bond but also gives them a beautiful and glossy coating. <br>For best results, use this sealant daily to extend the life of your lash extensions.</p>
+<p><strong>Please Note: Not for use on Volume lash extensions as it will close the fans. We recommend this product for Classic and Elipse Lashes Only.</strong></p>
+<h3 class="p5 description-section-controller collapsed-bg" data-toggle="collapse" data-target="#description-section-0" aria-expanded="true">Details</h3>
+<div class="description-section collapse in" id="description-section-0" aria-expanded="true" readability="-43">
+<ul>
+<li>Will prolong the life of eyelash extensions</li>
+<li>Give your lashes an attractive glaze, they will look fresh and shiny</li>
+<li>Perfect to be used in conjunction with any mascara.</li>
+</ul>
+<strong>Ingredients: </strong> Nettle extract: Contains vitamin A &amp; C, and mineral to nourish dry damaged eyelashes and make eyelashes shine and strong. Witch Hazel extract: Sterilizing, antiseptic, and hydrating effect. Panthenol: Natural fat-soluble extract contains vitamin B5 with a rich moisturizing and antiseptic effect. Hydrolyzed Collagen: Anti-aging, anti-wrinkle effect. Tightens skin and increases resilience. Betaine: All-natural moisturizing solution extracted from sugar beetroot prevents dehydration, and adds sheen and volume to eyelashes</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Extension Sealer</s:tag>
+    <s:tag>lash fixer</s:tag>
+    <s:tag>lash protector</s:tag>
+    <s:tag>lash sealer</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107543075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>809255501728</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735107149859</id>
+    <published>2019-05-22T12:58:55-04:00</published>
+    <updated>2019-05-22T12:58:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/eyelash-cleansing-brush"/>
+    <title>Eye Shampooing Brush (White)</title>
+    <s:type>shampoo brush</s:type>
+    <s:vendor>Gollee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/eye-shampooing-brush-white-eyelash-cleansing-brush-eye-shampooing-brush-5499239432227.jpg?v=1621286267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gollee<br>
+        <strong>Type: </strong>shampoo brush<br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You asked for it and we found one for you. This is the ideal cleansing brush for your clients. It is specifically made to be gentle to clean around the roots of eyelash extensions without damaging or getting  tangled. You will find a superior clean compared to using regular lint free applicators. You can also sell this brush to your clients for them to take home and take care of their lashes. It also makes a great starter kit to sell with the lash extension shampoo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>Eyelash Cleansing Brush</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>shampoo brush</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107149859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>805046000203</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735103807523</id>
+    <published>2019-05-22T12:57:31-04:00</published>
+    <updated>2019-05-22T12:57:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/collagen-lip-mask-10-pack"/>
+    <title>Collagen Lip Mask 10/bag</title>
+    <s:type>lip mask</s:type>
+    <s:vendor>Gollee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lip-mask-collagen-lip-mask-10-bag-5499226914851.jpg?v=1621286205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gollee<br>
+        <strong>Type: </strong>lip mask<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Keep your lips hydrated!  These lip masks are ideal for clients as an additional service, while they are getting lashes done. The collagen filled masks will moisturize, firm up and nourish your clients lips. Simply apply to clean lips, and leave for 30 minutes. </span></p>
+<p>Most salons charge between five to $10 extra for this service.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collagen lip mask</s:tag>
+    <s:tag>lip mask</s:tag>
+    <s:tag>plump mask</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735103807523</id>
+      <title>gold</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>805046000135</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735103807523</id>
+      <title>white</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>805046000137</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735099547683</id>
+    <published>2019-05-22T12:55:59-04:00</published>
+    <updated>2019-05-22T12:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lbd-eye-shampooing-brush"/>
+    <title>Shampooing Brush - 10 per Bag</title>
+    <s:type></s:type>
+    <s:vendor>Jane Li</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/shampooing-brush-black-5499213152291.jpg?v=1621286355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane Li<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>We customized the perfect lash shampooing brush for you and your clients.  The key to excellent retention is starting with a deep clean.  Use this brush with our lash shampoo, and see the difference for yourself!</div>
+<div></div>
+<div><strong><br></strong></div>
+<div>These brushes are ideal to sell to your clients or even give to them at each appointment.  With proper lash hygiene, your clients will maintain healthy and clean lashes.</div>
+<div></div>
+<div></div>
+<div>
+<div><b></b></div>
+<div><b>RECOMMENDATION:</b></div>
+<div>The lash brushes pair perfectly with our <a href="https://www.lashesbydesign.ca/products/lash-cleanser" title="Lash Shampoo" target="_blank">Lash Shampoo</a>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>better retention</s:tag>
+    <s:tag>clean lashes</s:tag>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>lash care</s:tag>
+    <s:tag>lash retail</s:tag>
+    <s:tag>lash retention</s:tag>
+    <s:tag>new-collection</s:tag>
+    <s:tag>shampoo brush</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735099547683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>805046000856</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735099220003</id>
+    <published>2019-05-22T12:55:39-04:00</published>
+    <updated>2019-05-22T12:55:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/henna-brow-conditioner"/>
+    <title>Henna Brow Cleanser</title>
+    <s:type></s:type>
+    <s:vendor>Mina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/henna-brow-conditioner-5499210367011.jpg?v=1621286278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mina<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong></p>
+<ul>
+<li>Removes all traces of makeup.</li>
+<li>Gentle on skin</li>
+<li>Free from chemicals like Parabene and SLES.</li>
+<li>Nourishes and conditions your eyebrows and skin.</li>
+</ul>
+<p><strong>Description:</strong></p>
+<p>Mina Brow Conditioning Cleanser is a product that deep cleanses your eyebrows and eyelashes. This removes all traces of makeup. It can be used for eyebrow tinting treatment this removes the extra product or dirt from the eyebrows. The formula is very light and gentle in use does not cause any damage to your skin. It is free from parabens and SLES. This does not only cleans the makeup or dirt but also nourishes and deep conditions the skin, eyelashes and eyebrows. A great brow conditioning cleanser.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow cleanser</s:tag>
+    <s:tag>henna</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735099220003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>8904061207069</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735099187235</id>
+    <published>2019-05-22T12:55:38-04:00</published>
+    <updated>2019-05-22T12:55:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/henna-brow-aftercare-nourishing-oil"/>
+    <title>Henna Brow Aftercare Nourishing Oil</title>
+    <s:type></s:type>
+    <s:vendor>Mina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/henna-brow-aftercare-nourishing-oil-5499210235939.jpg?v=1621286277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mina<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong></p>
+<ul>
+<li>Strengthen eyebrow hairs and prevent them from shedding.</li>
+<li>Makes eyebrows thick and gives a fuller look.</li>
+<li>Conditions the eyebrows.</li>
+<li>100% natural oil</li>
+<li>Thickens your eyebrows.</li>
+</ul>
+<p><strong>Description:</strong></p>
+<p>The Mina Brow Nourishing oil is a natural product that gives nourishment to your eyebrows. This makes your eyebrows fuller. It not only makes them look beautiful but also make your eyebrows strong by strengthening them. The essential oils like Almond oil, castor oil, Argan oil, Rosemary oil and geranium oil gives your eyebrows the entire amount of nourishment it requires. Castor oil promotes the growth of your eyebrows and preserves their shape for a long time. For best results can be used at night time as the oil will stay for a longer period while sleeping and will be more effective. Apply this daily and get your desired eyebrows. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Henna Aftercare Oil</s:tag>
+    <s:tag>Mina</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735099187235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.53</s:price>
+      <s:sku>805046000260</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

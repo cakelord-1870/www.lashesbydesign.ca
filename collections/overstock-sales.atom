@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lashesbydesign.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lashesbydesign.ca/collections/overstock-sales.atom"/>
+  <title>Lashes By Design</title>
+  <updated>2021-07-02T13:26:14-04:00</updated>
+  <author>
+    <name>Lashes By Design</name>
+  </author>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1751965106211</id>
+    <published>2021-07-02T13:26:14-04:00</published>
+    <updated>2021-07-02T13:26:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/hue-blanc-keratin"/>
+    <title>Hue Blanc Keratin</title>
+    <s:type>Keratin</s:type>
+    <s:vendor>Suzy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/HUEBLANC.jpg?v=1626196034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suzy<br>
+        <strong>Type: </strong>Keratin<br>
+        <strong>Price: </strong>
+            18.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Are you looking for the best Keratin Kit? Add Keratin to any lash lift kit as the final step  of the lash lift procedure to deep condition the lashes. Keratin will help rebuild the protein in the hair</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keratin</s:tag>
+    <s:tag>keratin essence</s:tag>
+    <s:tag>keratin lash lift</s:tag>
+    <s:tag>lash lift</s:tag>
+    <s:tag>lash lift lotion</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1751965106211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.25</s:price>
+      <s:sku>805046000262</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4876065865763</id>
+    <published>2021-02-23T08:15:56-05:00</published>
+    <updated>2021-02-23T08:15:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/brow-wrap"/>
+    <title>Brow Wrap</title>
+    <s:type>Brow Wrap</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/useage.jpg?v=1621286156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>Brow Wrap<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">【High Quality】Perfect fit on the eyebrow. With light thin and transparent food grade plastic wrap, it’s not easy to break and make the paste take full effect that cover with the tattoo film. And the paper tube is clean, eyebrow plastic wrap can cut flat and has good toughness.</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">【Easy to Use】The cutter on the box makes it convenient to cut out the wrap film, save your time and intercept more easily. Light weight and easy to carry. A must have for any tattoo artist.</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">【Multipurpose】Tattoo, embroidered eyebrow, bleached lips, pattern eye lines, pattern the United States pupil line, a small tattoo. It can be used as a preservation film for tattoo and also preoperative film.</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">【Safe and Non-Toxic】Made of high-grade material that is safe, harmless and also eco-friendly.</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">【Moisture Locking Seal】Just what you want. Keep the good stuff in and the bad stuff out. Our film is designed to seal after application, increasing product effectiveness.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow wrap</s:tag>
+    <s:tag>lash lift</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4876065865763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>805046000793</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+    <published>2020-10-19T14:01:13-04:00</published>
+    <updated>2020-10-19T14:01:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/training-case-1"/>
+    <title>Beauty Case</title>
+    <s:type>case</s:type>
+    <s:vendor>amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/white.jpg?v=1621286155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>amazon<br>
+        <strong>Type: </strong>case<br>
+        <strong>Price: </strong>
+            19.99 - 34.00
+            <a href="https://www.lashesbydesign.ca/products/training-case-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Great kit for training or use as a personal makeup bag! Vegan and Cruelty-Free!</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Customized Dividers - create your own sections that maximize your space</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1"> Brush and Tweezer Compartment - It comes with a separate space to hold your brushes and protect them from dust and an extra zipper pocket for small items storage.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Professional Grade - Soft &amp; padded, reliable zippers, nice lining, every detail is delicately made. Our makeup case would be a great holiday gift for women and girls.</span></li>
+<li data-mce-fragment="1">Water-resistant - Water-resistant inside and outside and durable fabric protects your gear from spills, easy to wipe down.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brush case</s:tag>
+    <s:tag>makeup case</s:tag>
+    <s:tag>training case</s:tag>
+    <s:tag>training kit</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+      <title>White and Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>805046000759</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+      <title>Black</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4630294757411</id>
+    <published>2020-08-31T16:42:42-04:00</published>
+    <updated>2020-08-31T16:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/reusable-silk-mask"/>
+    <title>Mulberry 100% Silk Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/face-mask-mulberry-100-silk-mask-16839544700963.jpg?v=1621286322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself to luxurious 100% silk on your face. Prevents breakout and rashes on your skin. </p>
+<p>Adjustable earloop strap to make the perfect snug and comfortable fit.</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Made from 100% Mulberry Silk: Silk allows your skin to simply glide over the surface of the smooth fabric, where cotton can be more abrasive. This prevents acne and breakouts.</span></li>
+<li><span class="a-list-item">Machine Washable: Hand or machine wash cold delicate using a gentle detergent. Hang dry or tumble dry low, for 10 minutes.</span></li>
+<li><span class="a-list-item">Adjustable Ear Loop and Nose Clip: Mask can be adjusted to tailor to each individual face.</span></li>
+<li><span class="a-list-item">Filter Pocket (Filter Included): Mask can be fitted with loose filter material, including any kind of HEPA filter, which may improve effectiveness.</span></li>
+<li><span class="a-list-item">Hypoallergenic and Breathable: Very breathable and cool during the summer months. This mask provides a great combo of fashion and function.</span></li>
+</ul>
+<p><span class="a-list-item">Black is the most popular colour so grab them while they are still available!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>face mask</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>mulberry mask</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>reusable mask</s:tag>
+    <s:tag>silk mask</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4630294757411</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>805046000303</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4630294757411</id>
+      <title>Navy</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>805046000305</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4353758363683</id>
+    <published>2019-11-19T11:26:15-05:00</published>
+    <updated>2019-11-19T11:26:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lash-and-brow-gel-cleanser-sachet"/>
+    <title>Lash and Brow Gel Cleanser Sachet (10 pack)</title>
+    <s:type>Lash Shampoo</s:type>
+    <s:vendor>Lcare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lash-shampoo-lash-and-brow-gel-cleanser-sachet-10-13585386700835.png?v=1621705930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lcare<br>
+        <strong>Type: </strong>Lash Shampoo<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We love it when our clients take care of their lashes by washing them daily. This sample pack can be used to create foaming bottles (1 sachet/bottle) or you can purchase the full size 50 ml bottle.</p>
+<p><strong>Ingredients</strong><span>: Aqua, Cocamidopropyl Betaine, Acrylatec Copolymer, Aloe Ferox Leaf Gel, Glycerin, Cocamide DEA, Polysorbate 20, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Orange Fruit Oil, Rose Pelargonium Flower Oil, Tea tree Leaf Oil, Potassium Sorbate, Citric Acid, Rooibos Leaf Extract.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clean lashes</s:tag>
+    <s:tag>Gel Lash Cleanser</s:tag>
+    <s:tag>lash bath</s:tag>
+    <s:tag>new-collection</s:tag>
+    <s:tag>oil free face wash</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4353758363683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4287756075043</id>
+    <published>2019-10-18T09:25:23-04:00</published>
+    <updated>2019-10-18T09:25:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/undereye-foam-tape"/>
+    <title>Undereye Foam Tape</title>
+    <s:type>tape</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/white_roll.jpg?v=1621286155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>tape<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are happy to announce that we now have Undereye Foam Tape. The stretchy foam tape comes in 1" wide, 4 M long, or 2" wide, 5 M long.</p>
+<p>Use this tape in place of a gel pad or add it on top of a gel pad to help reduce the gap between the upper and lower eyelid.</p>
+<p>Many lashers recut several pieces of foam to have them ready for your lash clients.<br></p>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>Latex-free</li>
+<li>Thicker than Gel Pads so helps keep eyes completely closed during service</li>
+<li>Enough tape for 100 Clients</li>
+<li>Gentle removal so great for sensitive skin</li>
+<li>Medical Grade</li>
+<li>Stretchy so can easily expand to cover hard to reach inner eyes</li>
+<li>Easily writeable surface for creating lash maps</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3m tape</s:tag>
+    <s:tag>foam tape</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:tag>tape</s:tag>
+    <s:tag>undereye foam tape</s:tag>
+    <s:tag>undereye tape</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4287756075043</id>
+      <title>1&quot; Wide</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>805046000572</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4287756075043</id>
+      <title>2&quot; Wide</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>805046000573</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4253093625891</id>
+    <published>2019-10-15T11:00:44-04:00</published>
+    <updated>2019-10-15T11:00:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/henna-eyebrow-brush"/>
+    <title>Angled Eyebrow Brush</title>
+    <s:type>eyebrow brush</s:type>
+    <s:vendor>Lashes By Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/eyebrow-brush-angled-eyebrow-brush-16158327930915.jpg?v=1621286202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lashes By Design<br>
+        <strong>Type: </strong>eyebrow brush<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Perfect for both professional use or personal use.</span></li>
+<li><span class="a-list-item">Easy to stick powder, natural colour, rendering uniform.</span></li>
+<li><span class="a-list-item">An ultimate tool for lining the eyes and defining the brows.</span></li>
+<li><span class="a-list-item">The firm, angled synthetic bristles delivers a smooth, precise line every time.</span></li>
+<li><span class="a-list-item">It allows you to highlight, shape, or define brows with liquid, cream, or powder-based products, in order to accentuate any look.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyebrow brush</s:tag>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>henna brush</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4253093625891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>805046000573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735106756643</id>
+    <published>2019-05-22T12:58:34-04:00</published>
+    <updated>2019-05-22T12:58:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lash-extension-maps-7-pairs-per-sheet"/>
+    <title>Lash Extension Maps (9 sheets)</title>
+    <s:type>lash map</s:type>
+    <s:vendor>Gollee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/lash-map-lash-extension-maps-9-sheets-13690177585187.jpg?v=1621286298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gollee<br>
+        <strong>Type: </strong>lash map<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack includes 9 sheets (63 Pairs of Lash Map Stickers)</strong></p>
+<p>Lash extension maps are an ideal way to have a uniform map when you were designing your clients style. Simply place over your gel pad in the centre of your client's eye and use the spacing as a guide to give you the perfect, symmetrical lash map.  </p>
+<p><strong>Suggestions:</strong> </p>
+<p><strong>Open Eye:</strong> 8-10-12-10-8</p>
+<p><strong>Cat Eye</strong>: 7-9-11-12-13</p>
+<p><strong>Kitty Eye:</strong> 7-9-11-12-11</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>lash map</s:tag>
+    <s:tag>lash sticker</s:tag>
+    <s:tag>lash styling</s:tag>
+    <s:tag>lash template</s:tag>
+    <s:tag>map</s:tag>
+    <s:tag>template</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735106756643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>805046000270</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735100006435</id>
+    <published>2019-05-22T12:56:22-04:00</published>
+    <updated>2019-05-22T12:56:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/premium-nanomister"/>
+    <title>Nano Mister for Lash Extensions</title>
+    <s:type>nano mister</s:type>
+    <s:vendor>Gollee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/nano-mister-nano-mister-for-lash-extensions-13690354368547.jpg?v=1621286325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gollee<br>
+        <strong>Type: </strong>nano mister<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Premium Nano mister has a mist that is 30% finer than our regular nano mister.  This means slower and more effective at instantly curing lashes.</p>
+<p>Use the popular nano mister to gently mist your client's lashes and help the adhesive cure faster.  We recommend that you hold your device 24" away from your client's lashes for 30 to 60 seconds following the lash extension procedure.</p>
+<p>If you hold the nano mister too close, you will leave droplets of water on the lashes and the adhesive will blanch (turn white).  This will also affect retention.</p>
+<p> <strong>PRODUCT DETAILS</strong></p>
+<ul>
+<li>Cures adhesive instantly </li>
+<li><span>4.25 x 1.5 inches</span></li>
+<li><span>USB Chargeable</span></li>
+<li><span>Includes bottle to fill mister and USB cord</span></li>
+<li><span>Soothes eyes during and after lash application</span></li>
+<li><span>Comes with a 6-month warranty</span></li>
+</ul>
+<p><strong>How to use: </strong>Mist from at least 12 inches away from the client's face for 30-60 seconds. There should be no water droplets on the lashes. Use distilled water if possible to reduce buildup in your device. Clean it regularly with a diluted solution of vinegar and water to eliminate calcium buildup.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>nano mister</s:tag>
+    <s:tag>nanomister</s:tag>
+    <s:tag>nebuliser</s:tag>
+    <s:tag>nebulizer</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735100006435</id>
+      <title>White</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>805046000403</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735100006435</id>
+      <title>Pink</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>805046000404</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735100006435</id>
+      <title>Black</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>805046000405</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735100006435</id>
+      <title>Gold</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>805046000237</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735099842595</id>
+    <published>2019-05-22T12:56:11-04:00</published>
+    <updated>2019-05-22T12:56:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/butterfly-silicone-pads"/>
+    <title>butterfly silicone pads SS/S/M/L/LL</title>
+    <s:type>silicone shield</s:type>
+    <s:vendor>StarColor New</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/silicone-shield-butterfly-silicone-pads-ss-s-m-l-ll-5499215085603.jpg?v=1621286327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StarColor New<br>
+        <strong>Type: </strong>silicone shield<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Butterfly Silicone pads have the perfect handle to help you place your lash lift pad perfect every time.    </p>
+<p><strong>Details</strong>: 5 pairs per bag</p>
+<p><strong>Sizes</strong>: SS/S/M/L/LL</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Reusable</li>
+<li>Tab to hold onto to make it easier to position on the eyelid</li>
+<li>labeled so you don't mix up your sizes</li>
+<li>Easy to clean</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly pads</s:tag>
+    <s:tag>lash lift pads</s:tag>
+    <s:tag>silicone pads</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735099842595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>805046000019</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735099678755</id>
+    <published>2019-05-22T12:56:08-04:00</published>
+    <updated>2019-05-22T12:56:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/tweezer-stand"/>
+    <title>Tweezer Stand</title>
+    <s:type></s:type>
+    <s:vendor>Iris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/tweezer-stand-5499214037027.jpg?v=1621286393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iris<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finally, we have a place to safely store your tweezers!  No more dropping your tweezers and breaking the tips!</p>
+<p>Store them point up or point down, but they will no longer get lost in your drawers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new-collection</s:tag>
+    <s:tag>stand</s:tag>
+    <s:tag>tweezer stand</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735099678755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>805046000502</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735098925091</id>
+    <published>2019-05-22T12:55:27-04:00</published>
+    <updated>2019-05-22T12:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/acrylic-lash-tile-wrist-band"/>
+    <title>Acrylic lash tile wrist band</title>
+    <s:type>Tile</s:type>
+    <s:vendor>Miss Pretty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/tile-acrylic-lash-tile-wrist-band-lash-palette-organizer-crystal-tile-back-in-stock-5873803493411.jpg?v=1621286191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Pretty<br>
+        <strong>Type: </strong>Tile<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Health Regulation compliant lash tiles that are non porous on all sides.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>eyelash extension supplies</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>Lash Palette Organizer</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735098925091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>805046000007</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+</feed>

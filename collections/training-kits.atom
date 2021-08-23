@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lashesbydesign.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lashesbydesign.ca/collections/training-kits.atom"/>
+  <title>Lashes By Design</title>
+  <updated>2020-12-03T13:57:32-05:00</updated>
+  <author>
+    <name>Lashes By Design</name>
+  </author>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4837187125283</id>
+    <published>2020-12-03T13:57:32-05:00</published>
+    <updated>2020-12-03T13:57:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/mina-thread"/>
+    <title>Mina Thread</title>
+    <s:type>Brow Thread</s:type>
+    <s:vendor>Mina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/brow-thread-mina-thread-17418608607267.jpg?v=1621286310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mina<br>
+        <strong>Type: </strong>Brow Thread<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Mina Thread is used to remove excess brow hair from the area and unwanted facial hair. It is made of cotton, grown and harvested without the use of any pesticides, herbicides, insecticides, chemical fertilizers or any other chemicals, on land that has been chemically free for at least 3 years. This ensures the production of cotton that is not only environment friendly but is skin-friendly also, making it suitable for use on the most sensitive skin types.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">DIRECTIONS FOR USE</strong>: Mina Thread is intended for professional use and for this reason the professional use and for this reason, the professional using this product must be familiar with at least one facial hair removal technique. Prior to use, it is necessary to wash the hands and facial area using Mina Henna.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Net Qty.: 300meter</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mina</s:tag>
+    <s:tag>thread</s:tag>
+    <s:tag>threading thread</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4837187125283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>8904061209315</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+    <published>2020-10-19T14:01:13-04:00</published>
+    <updated>2020-10-19T14:01:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/training-case-1"/>
+    <title>Beauty Case</title>
+    <s:type>case</s:type>
+    <s:vendor>amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/white.jpg?v=1621286155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>amazon<br>
+        <strong>Type: </strong>case<br>
+        <strong>Price: </strong>
+            19.99 - 34.00
+            <a href="https://www.lashesbydesign.ca/products/training-case-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Great kit for training or use as a personal makeup bag! Vegan and Cruelty-Free!</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Customized Dividers - create your own sections that maximize your space</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1"> Brush and Tweezer Compartment - It comes with a separate space to hold your brushes and protect them from dust and an extra zipper pocket for small items storage.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Professional Grade - Soft &amp; padded, reliable zippers, nice lining, every detail is delicately made. Our makeup case would be a great holiday gift for women and girls.</span></li>
+<li data-mce-fragment="1">Water-resistant - Water-resistant inside and outside and durable fabric protects your gear from spills, easy to wipe down.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brush case</s:tag>
+    <s:tag>makeup case</s:tag>
+    <s:tag>training case</s:tag>
+    <s:tag>training kit</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+      <title>White and Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>805046000759</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/4815813476387</id>
+      <title>Black</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1812329103395</id>
+    <published>2019-07-20T13:56:04-04:00</published>
+    <updated>2019-07-20T13:56:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/lip-pmu-practice-skin"/>
+    <title>Lip PMU Practice Skin</title>
+    <s:type>microblade practice</s:type>
+    <s:vendor>Aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/microblade-practice-lip-pmu-practice-skin-5881751240739.png?v=1621286298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aliexpress<br>
+        <strong>Type: </strong>microblade practice<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Practice makes perfect.  Use our practice skin, with or without pigment, to perfect your strokes.</span></div>
+<div><span>Front side has some lip shapes to fill in, and on the back side, you can trace your own shapes or just practice different techniques.</span></div>
+<div><span></span></div>
+<div><span>Material:  Rubber</span></div>
+<div>
+<span></span><span>Size: 19.5x14.5cm</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>microblade practice</s:tag>
+    <s:tag>practice skin</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1812329103395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>805046000519</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1754726662179</id>
+    <published>2019-06-11T12:14:37-04:00</published>
+    <updated>2019-06-11T12:14:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/mannequin-hea"/>
+    <title>Mannequin Head</title>
+    <s:type>mannequin head</s:type>
+    <s:vendor>Aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/mannequin-head-mannequin-head-5616227680291.png?v=1621286302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aliexpress<br>
+        <strong>Type: </strong>mannequin head<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Training Mannequin Head to Practice Make Up Eye Lashes Eyelash Extensions</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>mannequin head</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>practice head</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1754726662179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>805046000290</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lashesbydesign.ca/products/1735107182627</id>
+    <published>2019-05-22T12:58:57-04:00</published>
+    <updated>2019-05-22T12:58:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lashesbydesign.ca/products/practice-lashes"/>
+    <title>Practice Lashes</title>
+    <s:type>Practice Lashes</s:type>
+    <s:vendor>lisayan990@126.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/4539/2419/products/practice-lashes-practice-lashes-5499239596067.jpg?v=1621286337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lisayan990@126.com<br>
+        <strong>Type: </strong>Practice Lashes<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Training Lashes are great to practice on before practising on a person, or even just to increase your speed.  There are 10 strips attached to the pre-molded plastic which will help stimulate lashing a real clients eleyashes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beginner lasher</s:tag>
+    <s:tag>Eyelash Accessories</s:tag>
+    <s:tag>lash course</s:tag>
+    <s:tag>lash training</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>practice lashes</s:tag>
+    <s:variant>
+      <id>https://www.lashesbydesign.ca/products/1735107182627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>805046000368</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>
